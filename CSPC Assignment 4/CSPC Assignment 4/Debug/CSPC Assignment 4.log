@@ -1,0 +1,3 @@
+﻿  CSPC.cpp
+C:\Users\Alisa\source\repos\CSPC Assignment 4\CSPC Assignment 4\CSPC.h(79,8): warning C4804: '>': unsafe use of type 'bool' in operation
+  CSPC Assignment 4.vcxproj -> C:\Users\Alisa\source\repos\CSPC Assignment 4\Debug\CSPC Assignment 4.exe
