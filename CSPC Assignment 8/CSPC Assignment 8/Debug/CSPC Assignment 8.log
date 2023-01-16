@@ -1,0 +1,6 @@
+﻿  CSPC101.cpp
+C:\Users\Alisa\source\repos\CSPC Assignment 8\CSPC Assignment 8\CSPC101.h(41,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alisa\source\repos\CSPC Assignment 8\CSPC Assignment 8\CSPC101.h(42,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alisa\source\repos\CSPC Assignment 8\CSPC Assignment 8\CSPC101.h(43,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alisa\source\repos\CSPC Assignment 8\CSPC Assignment 8\CSPC101.h(44,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CSPC Assignment 8.vcxproj -> C:\Users\Alisa\source\repos\CSPC Assignment 8\Debug\CSPC Assignment 8.exe
